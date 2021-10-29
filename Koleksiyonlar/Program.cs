@@ -66,11 +66,7 @@ namespace Koleksiyonlar
                 Console.WriteLine(sehirler2[i]);
             }
 
-            Console.WriteLine("\n\nşehirler yeni listesi: ");
-            for (int i = 0; i < sehirler2.Length; i++)
-            {
-                Console.WriteLine(sehirler2[i]);
-            }
+            
 
         }
 
